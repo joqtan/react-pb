@@ -6,7 +6,4 @@ import BadgeNew from './pages/BadgeNew'
 
 const container = document.getElementById('app')
 
-ReactDOM.render(
-  <BadgeNew/>,
-  container
-)
+ReactDOM.render(<BadgeNew />, container)
